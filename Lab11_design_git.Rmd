@@ -34,7 +34,7 @@ This will hopefully be useful for you in your future data analysis projects.
 
     This is my first git repository.
     ```
-    
+    x
 5. Clone your repository
     * Click `Clone or download` green button, then `Open in Desktop`
     * Click `Clone` button to make a local copy of your repository
